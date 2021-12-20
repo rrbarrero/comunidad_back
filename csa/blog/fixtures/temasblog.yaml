@@ -1,0 +1,30 @@
+- model: blog.TemaArticulo
+  pk: 1
+  fields:
+    nombre: Evento
+    descripcion_corta: Noticias sobre próximos eventos.
+    descripcion: Noticias sobre próximos eventos.
+- model: blog.TemaArticulo
+  pk: 2
+  fields:
+    nombre: Recurso
+    descripcion_corta: Recursos sobre LSA
+    descripcion: Recursos sobre LSA
+- model: blog.TemaArticulo
+  pk: 3
+  fields:
+    nombre: Opinión
+    descripcion_corta: Artículos de opinión sobre LSA
+    descripcion: Recursos sobre LSA
+- model: blog.TemaArticulo
+  pk: 4
+  fields:
+    nombre: Estudio
+    descripcion_corta: Resultado de estudios sobre el aprendizaje
+    descripcion: Recursos sobre LSA
+- model: blog.TemaArticulo
+  pk: 5
+  fields:
+    nombre: Noticia
+    descripcion_corta: Noticias generales
+    descripcion: Noticias generales

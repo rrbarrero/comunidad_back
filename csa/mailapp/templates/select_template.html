@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Cielos extremadura admin panel</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-2">
+                <h1>Enviar a {{usuarios|length}} destinatarios:</h1>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-2">
+                <form method="POST" action="/sendmail/">
+                    {% csrf_token %}
+                    <input type="hidden" id="ids" name="ids" value="{{usuarios_string}}">
+                    <div class="form-group">
+                        <label for="template_id">Selecciona la plantilla que quieres usar</label>
+                        <select class="form-control" name="template_id" id="template_id">
+                            {% for plantilla in plantillas %}
+                            <option value="{{plantilla.id}}">{{plantilla.nombre}}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <button class="btn btn-primary" type="submit">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+</body>
+
+</html>

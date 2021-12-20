@@ -1,0 +1,36 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+django-debug-toolbar = "*"
+werkzeug = "*"
+autopep8 = "*"
+pylint = "*"
+pyyaml = "*"
+mysqlclient = "*"
+faker = "*"
+pipenv-poetry-migrate = "*"
+
+[packages]
+django = "*"
+django-rest-framework = "*"
+django-role-permissions = "*"
+django-avatar = "*"
+django-tinymce = "*"
+django-extensions = "*"
+django-cors-headers = "*"
+pyyaml = "*"
+bleach = "*"
+black = "*"
+lock = "*"
+python-memcached = "*"
+django-ckeditor = "*"
+celery = {extras = ["redis"], version = "*"}
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true

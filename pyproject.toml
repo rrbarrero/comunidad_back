@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "comunidad_lsa"
+version = "0.1.0"
+description = ""
+authors = ["Roberto Rodríguez <roberto.rodriguez@juntaex.es>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django = "*"
+django-rest-framework = "*"
+django-role-permissions = "*"
+django-avatar = "*"
+django-tinymce = "*"
+django-extensions = "*"
+django-cors-headers = "*"
+pyyaml = "*"
+bleach = "*"
+black = "*"
+lock = "*"
+python-memcached = "*"
+django-ckeditor = "*"
+celery = {extras = ["redis"], version = "*"}
+django-excel-response = "^2.0.5"
+cffi = "^1.15.0"
+
+[tool.poetry.dev-dependencies]
+pipenv-poetry-migrate = "^0.1.6"
+django-debug-toolbar = "*"
+werkzeug = "*"
+autopep8 = "*"
+pylint = "*"
+pyyaml = "*"
+mysqlclient = "*"
+faker = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

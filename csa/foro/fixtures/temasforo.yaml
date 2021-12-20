@@ -1,0 +1,42 @@
+- model: foro.TemaForo
+  pk: 1
+  fields:
+    nombre: Neuroeducación
+    imagen: pendiente
+    descripcion_corta: ¿No sería maravilloso aprender a aprender?
+    descripcion: ¿No sería maravilloso aprender a aprender? En este libro encontrarás motivos y explicaciones por los que la Neuroeducación puede ayudarte. Un impulso para la Sociedad del Aprendizaje imprescindible donde replantearse absolutamente todo.
+- model: foro.TemaForo
+  pk: 2
+  fields:
+    nombre: Estudio de Identificación de Competencias Clave
+    imagen: pendiente
+    descripcion_corta: Estudio realizado en colaboración con la Asociación CentRHo de Aedipe para identificar las competencias clave
+    descripcion: Estudio realizado en colaboración con la Asociación CentRHo de Aedipe para identificar las competencias clave más demandadas en el mercado laboral español, tanto en el momento presente como en un futuro próximo, priorizando la importancia de éstas y...
+- model: foro.TemaForo
+  pk: 3
+  fields:
+    nombre: El conocimiento de los Roles de Equipo Belbin para aprender a aprender
+    imagen: pendiente
+    descripcion_corta: Un manual con el que aprender el método para trabajar en equipo y sacar lo mejor de nosotros mismos
+    descripcion: Dentro de la Sociedad del Aprendizaje es necesario reivindicar el poder del individuo. Nuestras imperfecciones hacen que necesitemos de otros y trabajemos juntos, por el bien común. un manual con el que aprender el método para trabajar en equipo y sacar lo mejor de nosotros mismos.
+- model: foro.TemaForo
+  pk: 4
+  fields:
+    nombre: La Infancia, los años milagrosos
+    imagen: pendiente
+    descripcion_corta: Un comic basado en el prestigioso documental Brain Matters
+    descripcion: Un comic basado en el prestigioso documental Brain Matters* desde donde obtendrás información con rigor científico para potenciar procesos de aprendizaje desde la infancia y con los que alcanzarás mayores y mejores cotas de bienestar y felicidad.
+- model: foro.TemaForo
+  pk: 5
+  fields:
+    nombre: Aprendiendo a ser madres y padres
+    imagen: pendiente
+    descripcion_corta: DEBEMOS CONSTRUIR PUENTES donde encontrarnos, y este manual nos ayudará en este propósito.
+    descripcion: La sociedad actual cambia de manera muy rápida. Educar a nuestras hijas y nuestros hijos se hace cada vez más complicado. Que se sepan comportar nos cuesta también más esfuerzo. Estamos en un momento donde, como madres y padres, se nos presentan....
+- model: foro.TemaForo
+  pk: 6
+  fields:
+    nombre: Cómo Triunfar en la Vida
+    imagen: pendiente
+    descripcion_corta: Este manual, dirigido a los más jóvenes, ofrece herramientas y estrategias para conseguir aquello que el lector se proponga.
+    descripcion: Muchas veces, la falta de objetivos, no saber qué camino seguir, o que las cosas no salgan como teníamos previsto...nos lleva a la desmotivación. Esto da lugar a que nos pongamos barreras que no existen y nos impiden alcanzar nuestros objetivos. Este manual, dirigido a los más jóvenes...

@@ -1,0 +1,1000 @@
+- fields:
+    email: tferran@higueras.es
+    first_name: Obdulia
+    is_active: false
+    is_staff: true
+    last_name: Ávila
+    password: Wg12qJcvZ$
+    username: alemanytomasa
+  model: auth.user
+  pk: 100
+- fields:
+    email: zcadenas@iniguez.com
+    first_name: Begoña
+    is_active: false
+    is_staff: false
+    last_name: Sainz
+    password: '!4xFYi4#n9'
+    username: gastonboix
+  model: auth.user
+  pk: 101
+- fields:
+    email: huertatito@yahoo.com
+    first_name: Marisela
+    is_active: true
+    is_staff: true
+    last_name: Meléndez
+    password: '%CAH3oT&J7'
+    username: adora37
+  model: auth.user
+  pk: 102
+- fields:
+    email: olivaresjulio-cesar@hotmail.com
+    first_name: Inocencio
+    is_active: false
+    is_staff: false
+    last_name: Iniesta
+    password: 6_7OHzVQHD
+    username: gcolomer
+  model: auth.user
+  pk: 103
+- fields:
+    email: bautistamicaela@jodar.com
+    first_name: África
+    is_active: true
+    is_staff: true
+    last_name: Llamas
+    password: '&^1MNo#S%j'
+    username: octavia45
+  model: auth.user
+  pk: 104
+- fields:
+    email: saturninocalleja@moya.es
+    first_name: Juan
+    is_active: true
+    is_staff: true
+    last_name: Muro
+    password: z@eYb2Xo%s
+    username: calzadadan
+  model: auth.user
+  pk: 105
+- fields:
+    email: evaristo54@yahoo.com
+    first_name: Narcisa
+    is_active: true
+    is_staff: true
+    last_name: Donoso
+    password: qX6SCmf9t!
+    username: cgiralt
+  model: auth.user
+  pk: 106
+- fields:
+    email: rosario36@garrido.es
+    first_name: Melisa
+    is_active: true
+    is_staff: false
+    last_name: Gilabert
+    password: '%7UiudDhuF'
+    username: jose-luis13
+  model: auth.user
+  pk: 107
+- fields:
+    email: claudio22@hotmail.com
+    first_name: Jacobo
+    is_active: false
+    is_staff: false
+    last_name: Báez
+    password: '#1Je@DgX!a'
+    username: cadenasdulce
+  model: auth.user
+  pk: 108
+- fields:
+    email: amparo27@gimenez.es
+    first_name: Lázaro
+    is_active: false
+    is_staff: false
+    last_name: Doménech
+    password: sxHVAOLy(4
+    username: rosauragonzalo
+  model: auth.user
+  pk: 109
+- fields:
+    email: montesainara@adan.es
+    first_name: Lupita
+    is_active: true
+    is_staff: true
+    last_name: Acosta
+    password: q09YAw_sG)
+    username: socorrobarcena
+  model: auth.user
+  pk: 110
+- fields:
+    email: buenomanuel@hotmail.com
+    first_name: Toribio
+    is_active: true
+    is_staff: false
+    last_name: Aranda
+    password: '&0(+iSbVBb'
+    username: luisnogueira
+  model: auth.user
+  pk: 111
+- fields:
+    email: huriarte@yahoo.com
+    first_name: Pía
+    is_active: false
+    is_staff: false
+    last_name: Almansa
+    password: 2*Oi)p)3$j
+    username: jonatan47
+  model: auth.user
+  pk: 112
+- fields:
+    email: torreanastasia@yahoo.com
+    first_name: Vinicio
+    is_active: false
+    is_staff: true
+    last_name: Pou
+    password: +B%F)eBxN4
+    username: quevedoangelina
+  model: auth.user
+  pk: 113
+- fields:
+    email: qprada@gmail.com
+    first_name: Mirta
+    is_active: false
+    is_staff: false
+    last_name: Galvez
+    password: )(0PdVd%Rr
+    username: ocano
+  model: auth.user
+  pk: 114
+- fields:
+    email: daniela07@hotmail.com
+    first_name: Zaira
+    is_active: false
+    is_staff: true
+    last_name: Carnero
+    password: h%8kRVFvRX
+    username: folchiris
+  model: auth.user
+  pk: 115
+- fields:
+    email: vcalderon@yahoo.com
+    first_name: Fabio
+    is_active: false
+    is_staff: true
+    last_name: Camps
+    password: 1H86ZtYet*
+    username: villalobosambrosio
+  model: auth.user
+  pk: 116
+- fields:
+    email: nunezencarnacion@bas-villena.es
+    first_name: Dan
+    is_active: false
+    is_staff: true
+    last_name: Muro
+    password: (k99Ju8F0+
+    username: azucena61
+  model: auth.user
+  pk: 117
+- fields:
+    email: palominomaite@rodrigo-otero.com
+    first_name: Edelmiro
+    is_active: false
+    is_staff: false
+    last_name: Torre
+    password: ef*T3DDJ(7
+    username: ninodionisia
+  model: auth.user
+  pk: 118
+- fields:
+    email: echevarriaagata@gmail.com
+    first_name: Liliana
+    is_active: false
+    is_staff: true
+    last_name: Colomer
+    password: )R%OJJnt73
+    username: zbarroso
+  model: auth.user
+  pk: 119
+- fields:
+    email: felisa56@leal.com
+    first_name: Martirio
+    is_active: false
+    is_staff: true
+    last_name: Calatayud
+    password: '!^GP*Ha%74'
+    username: abelmonte
+  model: auth.user
+  pk: 120
+- fields:
+    email: eliseopaz@guitart.net
+    first_name: Isaac
+    is_active: false
+    is_staff: true
+    last_name: Varela
+    password: '*hvmQ)Wh3j'
+    username: antoniaribes
+  model: auth.user
+  pk: 121
+- fields:
+    email: kamo@juarez-alfaro.es
+    first_name: Francisco
+    is_active: false
+    is_staff: false
+    last_name: Nogués
+    password: '@k3J3gptj4'
+    username: gcarbonell
+  model: auth.user
+  pk: 122
+- fields:
+    email: bcabrera@abril-baro.es
+    first_name: Águeda
+    is_active: false
+    is_staff: false
+    last_name: Mayol
+    password: lWhUAd!s#7
+    username: abril55
+  model: auth.user
+  pk: 123
+- fields:
+    email: wilfredo98@yahoo.com
+    first_name: Lupe
+    is_active: true
+    is_staff: true
+    last_name: Sastre
+    password: rE0XsIAW)6
+    username: vserna
+  model: auth.user
+  pk: 124
+- fields:
+    email: murciamaximiano@cabezas.net
+    first_name: Sara
+    is_active: false
+    is_staff: true
+    last_name: Cortina
+    password: ApU2fLTx!x
+    username: vfigueras
+  model: auth.user
+  pk: 125
+- fields:
+    email: palaciosonia@izquierdo.org
+    first_name: Damián
+    is_active: false
+    is_staff: true
+    last_name: Armas
+    password: '%0R_t@XHxS'
+    username: lcastilla
+  model: auth.user
+  pk: 126
+- fields:
+    email: montalbanjulia@armengol.com
+    first_name: Albert
+    is_active: true
+    is_staff: true
+    last_name: Mayol
+    password: r+6kMARICm
+    username: wponce
+  model: auth.user
+  pk: 127
+- fields:
+    email: gaspar70@lasa.net
+    first_name: Milagros
+    is_active: false
+    is_staff: false
+    last_name: Ugarte
+    password: KL0#0Ea8U&
+    username: barrosobrigida
+  model: auth.user
+  pk: 128
+- fields:
+    email: pascualacorral@yahoo.com
+    first_name: Evangelina
+    is_active: false
+    is_staff: false
+    last_name: Álvaro
+    password: '&8i3g4Ee_F'
+    username: candela84
+  model: auth.user
+  pk: 129
+- fields:
+    email: amandaquiros@gmail.com
+    first_name: Bibiana
+    is_active: true
+    is_staff: false
+    last_name: Fuente
+    password: JZF*Z9Ro13
+    username: cristobal55
+  model: auth.user
+  pk: 130
+- fields:
+    email: aguilasigfrido@cabo-gomila.net
+    first_name: Quique
+    is_active: false
+    is_staff: true
+    last_name: Silva
+    password: _)Fmuysd!0
+    username: virginia53
+  model: auth.user
+  pk: 131
+- fields:
+    email: emarubio@hotmail.com
+    first_name: Zaira
+    is_active: false
+    is_staff: true
+    last_name: Puig
+    password: +6iuP*jK28
+    username: agarcia
+  model: auth.user
+  pk: 132
+- fields:
+    email: candela21@hotmail.com
+    first_name: Gabriel
+    is_active: false
+    is_staff: true
+    last_name: Calvet
+    password: E&Z0RaUc^4
+    username: dsolano
+  model: auth.user
+  pk: 133
+- fields:
+    email: susanitaroda@gascon-perales.com
+    first_name: Marianela
+    is_active: false
+    is_staff: false
+    last_name: Arnaiz
+    password: )07BOAmk!M
+    username: ramonsola
+  model: auth.user
+  pk: 134
+- fields:
+    email: acevedojose-antonio@hotmail.com
+    first_name: Natividad
+    is_active: true
+    is_staff: false
+    last_name: Lastra
+    password: cdt5HUYt*j
+    username: jose-migueltorrent
+  model: auth.user
+  pk: 135
+- fields:
+    email: sandovalherminia@yahoo.com
+    first_name: Belén
+    is_active: false
+    is_staff: false
+    last_name: Andrés
+    password: '@s&O3Pty^F'
+    username: estrella30
+  model: auth.user
+  pk: 136
+- fields:
+    email: nidia86@pascual.com
+    first_name: Ester
+    is_active: false
+    is_staff: true
+    last_name: Sarmiento
+    password: )4W9ardNJH
+    username: loretovaquero
+  model: auth.user
+  pk: 137
+- fields:
+    email: carmonadionisio@morcillo.net
+    first_name: Francisca
+    is_active: true
+    is_staff: false
+    last_name: Salvador
+    password: u)yBEBz1_3
+    username: spellicer
+  model: auth.user
+  pk: 138
+- fields:
+    email: gerardorovira@feliu.es
+    first_name: Rubén
+    is_active: false
+    is_staff: false
+    last_name: Bayo
+    password: V%rm8HGp9Y
+    username: bautista48
+  model: auth.user
+  pk: 139
+- fields:
+    email: miriamalberdi@busquets.com
+    first_name: Teobaldo
+    is_active: false
+    is_staff: true
+    last_name: Valderrama
+    password: _m07$wSu65
+    username: seguraximena
+  model: auth.user
+  pk: 140
+- fields:
+    email: jgomila@hotmail.com
+    first_name: Adora
+    is_active: true
+    is_staff: true
+    last_name: Rosales
+    password: w(2YfILmno
+    username: ivantalavera
+  model: auth.user
+  pk: 141
+- fields:
+    email: despada@nogues-saldana.net
+    first_name: Isaac
+    is_active: true
+    is_staff: false
+    last_name: Peláez
+    password: Z(n8XRb8^@
+    username: virginiaperea
+  model: auth.user
+  pk: 142
+- fields:
+    email: marcialtejada@villanueva.com
+    first_name: Daniel
+    is_active: false
+    is_staff: true
+    last_name: Sevillano
+    password: 8NPDRV_s*u
+    username: luisbenavente
+  model: auth.user
+  pk: 143
+- fields:
+    email: cortesmario@leiva.com
+    first_name: Ema
+    is_active: false
+    is_staff: false
+    last_name: Plana
+    password: b0Y2qI&T@j
+    username: porfiriogalan
+  model: auth.user
+  pk: 144
+- fields:
+    email: marinines@gmail.com
+    first_name: Cecilia
+    is_active: false
+    is_staff: true
+    last_name: Castillo
+    password: m$4UaI!jjT
+    username: xmarques
+  model: auth.user
+  pk: 145
+- fields:
+    email: tnavas@vazquez.org
+    first_name: Martin
+    is_active: false
+    is_staff: true
+    last_name: Blanch
+    password: d5K9Xo&U@K
+    username: ulises15
+  model: auth.user
+  pk: 146
+- fields:
+    email: samu18@tome.es
+    first_name: Juanita
+    is_active: true
+    is_staff: false
+    last_name: Carpio
+    password: t%6QkOEy^z
+    username: lupita31
+  model: auth.user
+  pk: 147
+- fields:
+    email: maria-jesus09@montero.org
+    first_name: Sonia
+    is_active: false
+    is_staff: true
+    last_name: Torrent
+    password: '!m32EHe4y^'
+    username: vleon
+  model: auth.user
+  pk: 148
+- fields:
+    email: climaco49@valls-calvet.com
+    first_name: Jose Luis
+    is_active: false
+    is_staff: false
+    last_name: Cantero
+    password: nBGZ4Ky0q@
+    username: claralara
+  model: auth.user
+  pk: 149
+- fields:
+    email: roselloalma@fuentes.es
+    first_name: Guillermo
+    is_active: false
+    is_staff: false
+    last_name: Madrigal
+    password: ^gGF4A!qJ*
+    username: murilloani
+  model: auth.user
+  pk: 150
+- fields:
+    email: gnieto@yahoo.com
+    first_name: Camilo
+    is_active: false
+    is_staff: true
+    last_name: Meléndez
+    password: c^or01Hd6D
+    username: maricruz58
+  model: auth.user
+  pk: 151
+- fields:
+    email: barrosmar@yahoo.com
+    first_name: Guiomar
+    is_active: false
+    is_staff: true
+    last_name: Cuervo
+    password: '!7JMdLY^#0'
+    username: amandocoello
+  model: auth.user
+  pk: 152
+- fields:
+    email: borrellfelicia@fuster.es
+    first_name: Ágata
+    is_active: true
+    is_staff: true
+    last_name: Vélez
+    password: '!4&)+RJh8v'
+    username: vzorrilla
+  model: auth.user
+  pk: 153
+- fields:
+    email: feijoocandelas@gmail.com
+    first_name: Eustaquio
+    is_active: true
+    is_staff: false
+    last_name: Baños
+    password: +3K0t6CfxV
+    username: cordobatatiana
+  model: auth.user
+  pk: 154
+- fields:
+    email: adrianamayoral@colom-simo.es
+    first_name: Leocadia
+    is_active: false
+    is_staff: false
+    last_name: Rincón
+    password: z4U%94Nu76
+    username: pepita17
+  model: auth.user
+  pk: 155
+- fields:
+    email: fgallardo@arevalo.com
+    first_name: Bernardino
+    is_active: false
+    is_staff: true
+    last_name: Bermejo
+    password: _0Kc5)7f*N
+    username: regueraamada
+  model: auth.user
+  pk: 156
+- fields:
+    email: elballoret@moll.com
+    first_name: Estela
+    is_active: true
+    is_staff: false
+    last_name: Rosales
+    password: gD!1yQHhH)
+    username: luquebaudelio
+  model: auth.user
+  pk: 157
+- fields:
+    email: taboadasalud@asensio.com
+    first_name: Horacio
+    is_active: false
+    is_staff: false
+    last_name: Frías
+    password: '!S_9vhMoe%'
+    username: sbartolome
+  model: auth.user
+  pk: 158
+- fields:
+    email: camachoalondra@talavera-abella.es
+    first_name: Claudia
+    is_active: true
+    is_staff: true
+    last_name: Miró
+    password: N!1IATlE!v
+    username: isidrobarrio
+  model: auth.user
+  pk: 159
+- fields:
+    email: amandoalvarez@ramos-egea.com
+    first_name: Carmelo
+    is_active: true
+    is_staff: true
+    last_name: Núñez
+    password: '&zW39A9p+a'
+    username: durannayara
+  model: auth.user
+  pk: 160
+- fields:
+    email: jpuente@gmail.com
+    first_name: Elías
+    is_active: false
+    is_staff: true
+    last_name: Cuenca
+    password: ^B1G$5FdNW
+    username: xoliveras
+  model: auth.user
+  pk: 161
+- fields:
+    email: tomasaayllon@gmail.com
+    first_name: Plácido
+    is_active: false
+    is_staff: false
+    last_name: Iriarte
+    password: '!F6QjlYm%#'
+    username: waguilera
+  model: auth.user
+  pk: 162
+- fields:
+    email: hermenegildo31@hotmail.com
+    first_name: Eusebia
+    is_active: false
+    is_staff: false
+    last_name: Fonseca
+    password: '%i!aOg845a'
+    username: rfigueras
+  model: auth.user
+  pk: 163
+- fields:
+    email: phernandez@ferrandez-arregui.com
+    first_name: Ramiro
+    is_active: true
+    is_staff: false
+    last_name: Francisco
+    password: 1gOgAu@M%0
+    username: lfuertes
+  model: auth.user
+  pk: 164
+- fields:
+    email: umarcos@yahoo.com
+    first_name: Delia
+    is_active: true
+    is_staff: false
+    last_name: Catalá
+    password: wgu0Sxfh5#
+    username: marcianocanete
+  model: auth.user
+  pk: 165
+- fields:
+    email: aleleon@yahoo.com
+    first_name: Leticia
+    is_active: true
+    is_staff: true
+    last_name: Barrena
+    password: hxyNvaVI&0
+    username: amora
+  model: auth.user
+  pk: 166
+- fields:
+    email: alejandrocollado@hotmail.com
+    first_name: Aurelia
+    is_active: false
+    is_staff: true
+    last_name: Villa
+    password: b6nNWvia&)
+    username: alexzaragoza
+  model: auth.user
+  pk: 167
+- fields:
+    email: ribafelipe@olmo.es
+    first_name: Ciriaco
+    is_active: false
+    is_staff: true
+    last_name: Almansa
+    password: 9V3sUGHnU%
+    username: oalamo
+  model: auth.user
+  pk: 168
+- fields:
+    email: leonciomarti@gmail.com
+    first_name: Adoración
+    is_active: false
+    is_staff: true
+    last_name: Gómez
+    password: +4C!%rXhB#
+    username: amorafaela
+  model: auth.user
+  pk: 169
+- fields:
+    email: tito31@puente.net
+    first_name: Guiomar
+    is_active: true
+    is_staff: false
+    last_name: Arco
+    password: '@!7MI@*4Rn'
+    username: ofalcon
+  model: auth.user
+  pk: 170
+- fields:
+    email: benito98@hotmail.com
+    first_name: Beatriz
+    is_active: true
+    is_staff: true
+    last_name: Bolaños
+    password: ^333Ngr+Lx
+    username: juliecaceres
+  model: auth.user
+  pk: 171
+- fields:
+    email: amata@reig.com
+    first_name: José
+    is_active: false
+    is_staff: true
+    last_name: Guitart
+    password: Xp1FU+wF!#
+    username: azaharapallares
+  model: auth.user
+  pk: 172
+- fields:
+    email: monterojuan@parra-miranda.es
+    first_name: René
+    is_active: true
+    is_staff: false
+    last_name: Campos
+    password: ulY4WlByE)
+    username: lorozco
+  model: auth.user
+  pk: 173
+- fields:
+    email: asdrubal18@gmail.com
+    first_name: Silvestre
+    is_active: true
+    is_staff: true
+    last_name: Aznar
+    password: 3by!CJY4F_
+    username: erasmograu
+  model: auth.user
+  pk: 174
+- fields:
+    email: nacedo@castaneda.es
+    first_name: Dionisio
+    is_active: true
+    is_staff: false
+    last_name: Almagro
+    password: tfNF6Os4%!
+    username: jbarral
+  model: auth.user
+  pk: 175
+- fields:
+    email: leonor40@hotmail.com
+    first_name: Isabel
+    is_active: true
+    is_staff: false
+    last_name: Cordero
+    password: U%8LwB$nth
+    username: niloaragones
+  model: auth.user
+  pk: 176
+- fields:
+    email: zhigueras@suarez-aguilera.org
+    first_name: Felicidad
+    is_active: false
+    is_staff: false
+    last_name: Álamo
+    password: fm2Z1SQx@E
+    username: eustaquiomartin
+  model: auth.user
+  pk: 177
+- fields:
+    email: nteruel@hotmail.com
+    first_name: Sandra
+    is_active: true
+    is_staff: true
+    last_name: Pedrosa
+    password: OW2(IRu&$W
+    username: ksureda
+  model: auth.user
+  pk: 178
+- fields:
+    email: hllorente@yahoo.com
+    first_name: Domingo
+    is_active: true
+    is_staff: false
+    last_name: Gisbert
+    password: )7#pZ7iuo2
+    username: aroa66
+  model: auth.user
+  pk: 179
+- fields:
+    email: faustino52@arribas.es
+    first_name: Balduino
+    is_active: false
+    is_staff: true
+    last_name: Garmendia
+    password: XPtJ4lxd)1
+    username: marcodebora
+  model: auth.user
+  pk: 180
+- fields:
+    email: huertascayetana@bustos.org
+    first_name: Luciano
+    is_active: false
+    is_staff: true
+    last_name: Manso
+    password: '&8p5C7d#E('
+    username: maximiliano51
+  model: auth.user
+  pk: 181
+- fields:
+    email: aparicioariel@lago.es
+    first_name: Máxima
+    is_active: false
+    is_staff: false
+    last_name: Bosch
+    password: YqV2UNr$)y
+    username: egisbert
+  model: auth.user
+  pk: 182
+- fields:
+    email: martinalarranaga@garcia.com
+    first_name: Ofelia
+    is_active: true
+    is_staff: false
+    last_name: Montoya
+    password: d47LNfGK3&
+    username: gsastre
+  model: auth.user
+  pk: 183
+- fields:
+    email: trinidadagusti@hotmail.com
+    first_name: Abraham
+    is_active: false
+    is_staff: false
+    last_name: Lladó
+    password: oD!*n7Lfc%
+    username: leoncioexposito
+  model: auth.user
+  pk: 184
+- fields:
+    email: domenechrufino@jover-peralta.es
+    first_name: Azahara
+    is_active: true
+    is_staff: false
+    last_name: Gracia
+    password: )R7chF8sXX
+    username: valeraseve
+  model: auth.user
+  pk: 185
+- fields:
+    email: ualmeida@hotmail.com
+    first_name: Leyre
+    is_active: true
+    is_staff: false
+    last_name: Paredes
+    password: cPjIQ#BS(4
+    username: wfigueras
+  model: auth.user
+  pk: 186
+- fields:
+    email: ribamaria-belen@hotmail.com
+    first_name: Liliana
+    is_active: true
+    is_staff: false
+    last_name: Sánchez
+    password: _x2FsKr!&c
+    username: margarita12
+  model: auth.user
+  pk: 187
+- fields:
+    email: mmoles@gmail.com
+    first_name: Clemente
+    is_active: true
+    is_staff: true
+    last_name: Cerdá
+    password: $9B+teo492
+    username: villaradrian
+  model: auth.user
+  pk: 188
+- fields:
+    email: marcianoabascal@gmail.com
+    first_name: Ana Belén
+    is_active: false
+    is_staff: true
+    last_name: Cobo
+    password: '%^4L_m_Gvw'
+    username: celestino12
+  model: auth.user
+  pk: 189
+- fields:
+    email: martinmendizabal@yahoo.com
+    first_name: Aurelio
+    is_active: false
+    is_staff: true
+    last_name: Cuervo
+    password: 0PM!sfix%9
+    username: ilucas
+  model: auth.user
+  pk: 190
+- fields:
+    email: paezcandelas@hotmail.com
+    first_name: María Cristina
+    is_active: false
+    is_staff: true
+    last_name: Ropero
+    password: J#33@Yyv@p
+    username: fatima12
+  model: auth.user
+  pk: 191
+- fields:
+    email: hugoadan@hotmail.com
+    first_name: Débora
+    is_active: true
+    is_staff: true
+    last_name: Otero
+    password: aY)0CUr_7(
+    username: natividadmarquez
+  model: auth.user
+  pk: 192
+- fields:
+    email: rosalina56@gmail.com
+    first_name: Gregorio
+    is_active: false
+    is_staff: false
+    last_name: Perera
+    password: +y^7qDUIi6
+    username: wvilalta
+  model: auth.user
+  pk: 193
+- fields:
+    email: asdrubaloliveras@carrera.net
+    first_name: Paulina
+    is_active: true
+    is_staff: false
+    last_name: Cabeza
+    password: ^c7B@emO32
+    username: primitivo95
+  model: auth.user
+  pk: 194
+- fields:
+    email: cristobal79@hotmail.com
+    first_name: Florentino
+    is_active: false
+    is_staff: false
+    last_name: Conde
+    password: 1I6N3NuCS$
+    username: dominguezanabel
+  model: auth.user
+  pk: 195
+- fields:
+    email: benitezjuanito@marques.es
+    first_name: Calista
+    is_active: true
+    is_staff: true
+    last_name: Yáñez
+    password: +0Xf!lTB*h
+    username: vito51
+  model: auth.user
+  pk: 196
+- fields:
+    email: encarnacionescudero@bou-rivera.es
+    first_name: Marita
+    is_active: false
+    is_staff: false
+    last_name: Leon
+    password: ZJuI3zDl%7
+    username: msaenz
+  model: auth.user
+  pk: 197
+- fields:
+    email: xaguirre@bauza.com
+    first_name: Obdulia
+    is_active: true
+    is_staff: false
+    last_name: Carmona
+    password: l+&5H$qw*1
+    username: cesarcanales
+  model: auth.user
+  pk: 198
+- fields:
+    email: ikermarco@yahoo.com
+    first_name: Donato
+    is_active: false
+    is_staff: false
+    last_name: Morales
+    password: R(ca0VzpK1
+    username: almudenaalegria
+  model: auth.user
+  pk: 199
